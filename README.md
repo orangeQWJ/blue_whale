@@ -1,2 +1,1 @@
-# blue_whale
-蓝鲸校园
+开发框架2.0使用说明：https://docs.bk.tencent.com/blueapps/USAGE.html
